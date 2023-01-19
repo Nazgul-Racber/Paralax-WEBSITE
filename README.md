@@ -38,7 +38,7 @@ Notebook-ShoppingPage(folder)
 
 ## Links
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://asfiyanur.github.io/Notebook-ShoppingPage/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://nazgul-racber.github.io/Paralax-WEBSITE/">Live Website</a>
 <hr>
 
 ### Built with
